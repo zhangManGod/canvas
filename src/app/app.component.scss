@@ -1,0 +1,28 @@
+.setBody{
+    display: flex
+}
+.left_body{
+    height: 600px;
+    width: 20%;
+    background-color: aqua;
+    position: relative;
+}
+.right_body{
+    height: 600px;
+    width: 80%;
+    background-color: lightblue
+}
+:host{
+    width: 100%;
+}
+.left_body_1{
+    height: 500px;
+    width: 100%;
+    background-color: lightgray;
+    position: absolute;
+}
+.dratStartTest{
+
+    background-color: blue
+
+}
